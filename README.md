@@ -61,6 +61,10 @@ This single command starts:
 - Autonomous explorer node
 
 ### What You'll See
+
+![WhatsApp Image 2025-11-02 at 1 07 08 PM](https://github.com/user-attachments/assets/ce841df6-4424-40ba-9cd3-62254acfa878)
+
+
 1. **Gazebo Window**: 3D simulation of the robot in the environment
 2. **RViz2 Window**: Real-time map building and robot pose
 
@@ -69,6 +73,8 @@ Once satisfied with the mapping, save it:
 ```bash
 ros2 run nav2_map_server map_saver_cli -f my_room_map
 ```
+
+![WhatsApp Image 2025-11-02 at 1 07 07 PM](https://github.com/user-attachments/assets/53bf2eab-ca2b-4b47-a3f4-5f4fc5f3dbaf)
 
 This creates:
 - `my_room_map.pgm` - Map image
@@ -82,6 +88,9 @@ This creates:
 - Detects obstacles within 0.5m
 - Intelligently rotates toward open space
 - Adds random exploration variations
+
+![WhatsApp Image 2025-11-02 at 1 07 07 PM (1)](https://github.com/user-attachments/assets/49a7436f-27d4-40e3-9e0c-3e311a7eb2a2)
+
 
 ### SLAM Toolbox
 - Processes LIDAR data
