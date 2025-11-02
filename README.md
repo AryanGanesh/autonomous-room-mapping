@@ -186,22 +186,17 @@ autonomous_mapper/
 ```
 
 ## Future Enhancements
+
 ## Development Progress
 
-**Autonomous Exploration**  
-<progress value="100" max="100"></progress> 100%
+| Feature | Progress |
+|----------|-----------|
+| Autonomous Exploration | ![100%](https://img.shields.io/badge/100%25-brightgreen) |
+| Obstacle Avoidance | ![90%](https://img.shields.io/badge/90%25-green) |
+| SLAM Toolbox Integration | ![95%](https://img.shields.io/badge/95%25-green) |
+| Frontier-based Exploration | ![35%](https://img.shields.io/badge/35%25-yellow) |
+| Multi-Robot Coordination | ![10%](https://img.shields.io/badge/10%25-red) |
 
-**Obstacle Avoidance**  
-<progress value="90" max="100"></progress> 90%
-
-**SLAM Toolbox Integration**  
-<progress value="95" max="100"></progress> 95%
-
-**Frontier-based Exploration**  
-<progress value="30" max="100"></progress> 30%
-
-**Multi-robot Coordination**  
-<progress value="10" max="100"></progress> 10%
 
 - [ ] Frontier-based exploration
 - [ ] Path planning integration
