@@ -1,0 +1,12 @@
+# ROS2 build files
+build/
+install/
+log/
+*.pyc
+__pycache__/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
