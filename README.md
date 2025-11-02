@@ -172,4 +172,4 @@ autonomous_mapper/
 MIT
 
 ## Author
-Created for autonomous room mapping simulation project
+AryanGanesh Kavuri
