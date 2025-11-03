@@ -6,7 +6,7 @@
 [![Author](https://img.shields.io/badge/Author-AryanGanesh%20Kavuri-lightgrey)](https://www.linkedin.com/in/aryanganesh-kavuri-405684286/)
 
 **Connect with me:**  
-📧 [aryanganesh.k@gmail.com](mailto:aryanganesh.k@gmail.com)  
+📧 [email](mailto:aryanganesh.k@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/aryanganesh-kavuri-405684286/)
 
 
@@ -211,7 +211,7 @@ autonomous_mapper/
 
 
 **Connect with me:**  
-📧 [aryanganesh.k@gmail.com](mailto:aryanganesh.k@gmail.com)  
+📧 [email](mailto:aryanganesh.k@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/aryanganesh-kavuri-405684286/)
 
 
