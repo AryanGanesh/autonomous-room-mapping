@@ -5,8 +5,6 @@
 [![Build](https://img.shields.io/badge/build-passing-success)](#)
 [![Author](https://img.shields.io/badge/Author-AryanGanesh%20Kavuri-lightgrey)](https://www.linkedin.com/in/aryanganesh-kavuri-405684286/)
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/AryanGanesh/Kinematics?style=social)](https://github.com/AryanGanesh/Kinematics)
-
 **Connect with me:**  
 📧 [aryanganesh.k@gmail.com](mailto:aryanganesh.k@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/aryanganesh-kavuri-405684286/)
@@ -211,7 +209,6 @@ autonomous_mapper/
 
 ---
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/AryanGanesh/Kinematics?style=social)](https://github.com/AryanGanesh/Kinematics)
 
 **Connect with me:**  
 📧 [aryanganesh.k@gmail.com](mailto:aryanganesh.k@gmail.com)  
