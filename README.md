@@ -2,9 +2,14 @@
 [![ROS2 Humble](https://img.shields.io/badge/ROS2-Humble-blue?logo=ros)](https://docs.ros.org/en/humble/)
 [![Gazebo](https://img.shields.io/badge/Simulated%20in-Gazebo-orange?logo=linux)](https://gazebosim.org/)
 [![Python](https://img.shields.io/badge/Python-3.10+-yellow?logo=python)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Build](https://img.shields.io/badge/build-passing-success)](#)
 [![Author](https://img.shields.io/badge/Author-AryanGanesh%20Kavuri-lightgrey)](https://www.linkedin.com/in/aryanganesh-kavuri-405684286/)
+
+[![GitHub Repo stars](https://img.shields.io/github/stars/AryanGanesh/Kinematics?style=social)](https://github.com/AryanGanesh/Kinematics)
+
+**Connect with me:**  
+📧 [aryanganesh.k@gmail.com](mailto:aryanganesh.k@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/aryanganesh-kavuri-405684286/)
 
 
 ## Tech Stack
@@ -204,8 +209,14 @@ autonomous_mapper/
 - [ ] 3D mapping support
 - [ ] Return to start position
 
-## License
-MIT
+---
+
+[![GitHub Repo stars](https://img.shields.io/github/stars/AryanGanesh/Kinematics?style=social)](https://github.com/AryanGanesh/Kinematics)
+
+**Connect with me:**  
+📧 [aryanganesh.k@gmail.com](mailto:aryanganesh.k@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/aryanganesh-kavuri-405684286/)
+
 
 ## Author
 AryanGanesh Kavuri
